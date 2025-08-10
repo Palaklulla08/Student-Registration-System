@@ -18,3 +18,5 @@ IT INCLUDES:
 1: eventlisteners
 2: button and input funtionality 
 3: it save the data in localstorage by getitem and setitem so that even after reload the data appears on the student information section 
+
+link for gitrepositry : https://github.com/Palaklulla08/Student-Registration-System.git
